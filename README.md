@@ -1,4 +1,4 @@
-# Fake_News_Classifer
+# Fake_News_Classifier
 
 ## Problem Statement
 In the world today, misinformation is a siginficant problem leading indiviudals unsure what to believe. Especially in polarizing nature of politics, the structure of a reliable news source can be difficult to identify. Therefore, in this personal project I attempted to develop a machine learning program to identify when an article might classified as reliable or not.
