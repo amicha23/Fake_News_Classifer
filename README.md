@@ -1,7 +1,7 @@
 # Fake_News_Classifier
 
 ## Problem Statement
-In the world today, misinformation is a siginficant problem leading indiviudals unsure of what to believe. Especially in the polarizing nature of politics and the growth of internet communication, the structure of a reliable news source can be difficult to identify. Therefore, in this personal project I attempted to develop a machine learning program to identify when an article might be classified as reliable or not.
+In the world today, misinformation is a significant problem leading individuals unsure of what to believe. Especially in the polarizing nature of politics and the growth of internet communication, the structure of a reliable news source can be difficult to identify. Therefore, in this personal project I attempted to develop a machine learning program to identify when an article might be classified as reliable or not.
 
 ## Data
 [https://www.kaggle.com/c/fake-news/data](https://www.kaggle.com/c/fake-news/data)
